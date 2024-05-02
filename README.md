@@ -6,7 +6,8 @@ Hi I am webdeveloper
 
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-red?style=flat-square&logo=*)
 
-![Static Badge](https://img.shields.io/badge/SQL)
+![Static Badge](https://img.shields.io/badge/SQL-yellow)
+
 
 
 
