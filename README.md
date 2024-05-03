@@ -8,6 +8,9 @@ Hi I am webdeveloper
 
 ![Static Badge](https://img.shields.io/badge/SQL-yellow)
 
+![Static Badge](https://img.shields.io/badge/Python-black?style=plastic&logoColor=white&logoSize=auto&labelColor=green&color=blue)
+
+
 
 
 
