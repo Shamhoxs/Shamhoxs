@@ -11,4 +11,9 @@ Hi! I am webdeveloper
 
 
 
+![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO)
+![GitHub forks](https://img.shields.io/github/forks/OWNER/REPO)
+![GitHub issues](https://img.shields.io/github/issues/OWNER/REPO)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OWNER/REPO)
+![GitHub contributors](https://img.shields.io/github/contributors/OWNER/REPO)
 
