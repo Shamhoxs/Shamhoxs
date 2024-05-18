@@ -10,7 +10,7 @@ Hi! I am webdeveloper
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shamhoxs)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsShamhoxs&layout=compact)
 
 
